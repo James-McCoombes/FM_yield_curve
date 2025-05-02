@@ -1,4 +1,4 @@
-# create a Class called ZeroCurve that will be used to store the zero rates and the discount factors
+ # create a Class called ZeroCurve that will be used to store the zero rates and the discount factors
 # for a given set of maturities and zero rates
 # the class will have the following methods:
 # - add_zero_rate(maturity, zero_rate): add a zero rate to the curve
